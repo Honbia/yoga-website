@@ -1,5 +1,8 @@
 # Belle & Carrie — Rehabilitation Yoga
 
+![HTML](https://img.shields.io/badge/HTML-Frontend-orange)
+![CSS](https://img.shields.io/badge/CSS-Frontend-brightgreen)
+
 A responsive, multi-page website for **Belle & Carrie Rehabilitation Yoga**, a welcoming studio focused on supportive movement, mobility, balance, strength, and restorative practice. The site is built with plain HTML and CSS and can be viewed locally or hosted as a static website.
 
 ## Pages
